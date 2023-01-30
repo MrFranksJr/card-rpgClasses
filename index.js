@@ -1,5 +1,5 @@
 import charData from '/data/characterData.js'
-import Character from '/data/characterConstructor.js'
+import Character from '/data/characterClass.js'
 
 let monstersArray = ["orc", "demon", "goblin"]
 const attackBtn = document.getElementById('attack-button')
