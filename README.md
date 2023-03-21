@@ -7,7 +7,7 @@
 
 **Live version [here](https://wizardz-n-monsters.netlify.app/)**
 
-Wizardz n Monsters is a small dice-rolling game, that was an assignment coming from the front-end developer career path on[scrimba.com](https://scrimba.com). The goal of this assignment and the module as a whole is to get familiar with some of the more advanced JavaScript concepts.
+Wizardz n Monsters is a small dice-rolling game, that was an assignment coming from the front-end developer career path on [scrimba.com](https://scrimba.com). The goal of this assignment and the module as a whole is to get familiar with some of the more advanced JavaScript concepts.
 
 This particular repo is the end-state of this little app. In this one we're using classes instead of constructor functions. To see the constructor function version, visit the [card-rpgConstructor](https://github.com/MrFranksJr/card-rpgConstructor) repository.
 
